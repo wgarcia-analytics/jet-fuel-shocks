@@ -1,0 +1,10 @@
+event,days_after,move,normal_move,times_normal
+COVID,1,-3.5,0.9,-3.9
+COVID,5,-5.0,1.6,-3.1
+COVID,20,-12.1,2.8,-4.3
+FAA outage,1,10.8,7.5,1.4
+FAA outage,5,16.0,12.5,1.3
+FAA outage,20,-13.0,16.8,-0.8
+CrowdStrike,1,0.3,3.4,0.1
+CrowdStrike,5,-1.0,5.7,-0.2
+CrowdStrike,20,-6.3,9.1,-0.7
